@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU;EACtB,eAAe,EAAE,MAAM;CAC1B;;AAED,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAA;EACJ,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,EAAE,EAAC,CAAC,CAAC;EAChB,MAAM,EAAE,CAAC;CACZ;;AAED,AAAA,EAAE,EAAC,EAAE,CAAC;EACF,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,CAAC;CACb;;AAED,AAAA,CAAC,CAAC;EACE,eAAe,EAAE,IAAI;CACxB;;AAED,AAAA,IAAI,CAAC;EACD,MAAM,EAAE,CAAC;EACT,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,aAAa;CACjC;;AAED,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;EACX,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_variables.scss",
+        "../scss/_fonts.scss",
+        "../scss/_mixin.scss",
+        "../scss/_global.scss",
+        "../scss/block/_block.scss",
+        "../scss/block/_header.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
